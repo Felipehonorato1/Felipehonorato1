@@ -5,7 +5,7 @@ Here are some ideas to get you started:
  🔭 I’m an undergraduate computer engineering student at UFPB  
  🌱 I really enjoy coding and learning new technologies    
  👯 I'm working curently on my artificial intelligence skills, focusing now at NLP techniques  
- :chart_with_upwards_trend: I'm a researcher at [ARIA] (https://aria.ci.ufpb.br/)  
+ :chart_with_upwards_trend: I'm a researcher at [ARIA](https://aria.ci.ufpb.br/)  
  :computer: I'm Co-founder and Data Science director at [TAIL - Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
  
 You can reach me through my email address or through my linkedin account:  
