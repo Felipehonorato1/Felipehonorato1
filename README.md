@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  :computer: I'm Co-founder and Data Science director at [TAIL - Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
  
 You can reach me through my email address or through my linkedin account:  
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/felipehonoratodesousa)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/felipehonoratodesousa)
 
 Go ahead and see a little of my job 
 ***
