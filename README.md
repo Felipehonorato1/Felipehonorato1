@@ -1,7 +1,5 @@
 ### Welcome to my github page :computer:
 
-Here are some ideas to get you started:
-
  🔭 I’m an undergraduate computer engineering student at UFPB  
  🌱 I really enjoy coding and learning new technologies    
  👯 I'm working curently on my artificial intelligence skills, focusing now at NLP techniques  
