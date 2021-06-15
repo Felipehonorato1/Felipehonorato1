@@ -2,7 +2,7 @@
 
  🔭 I’m an undergraduate computer engineering student at UFPB  
  🌱 I really enjoy coding and learning new technologies    
- 👯 I'm working curently on my artificial intelligence skills, focusing now at NLP techniques  
+ 👯 I'm working curently on my artificial intelligence skills, focusing now on NLP techniques  
  :chart_with_upwards_trend: I'm a researcher at [ARIA](https://aria.ci.ufpb.br/)  
  :computer: I'm Co-founder and director at [TAIL - Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
  
