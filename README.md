@@ -1,5 +1,1 @@
-I am a passionate Machine Learning Engineer, currently dedicated to the development of music applications. I began my coding journey at the age of 13, inspired by my desire to create modifications for a locally-hosted Grand Theft Auto server. My academic pursuits have led me to explore natural language processing and my present focus lies in speech processing and its associated techniques. During my educational journey, I have successfully completed courses from the Deep Learning Specialization on Coursera and obtained a Natural Language Processing Nanodegree.
-
-In addition, I spent two fruitful years studying computer engineering at Universidade Federal da Paraiba, during which I co-founded the Technology and Artificial Intelligence League (TAIL), a thriving community with over 60 members to date. Seeking to deepen my real-world experience, I made the decision to temporarily pause my academic pursuits to concentrate on my current position as a Machine Learning Engineer at Moises. This opportunity was earned after a year and a half of industrious work as an intern, where I showcased my skills by developing an innovative songwriter assistant project.
-
 
